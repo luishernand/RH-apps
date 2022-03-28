@@ -4,3 +4,4 @@ streamlit
 convertdate
 matplotlib
 seaborn
+torchvision
