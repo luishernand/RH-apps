@@ -14,7 +14,7 @@ st.title('Reporte de Empleados Activos RH 2022')
 
 # read data
 
-df = pd.read_excel("RH data.xlsx")
+df = pd.read_excel("C:\\Users\\User\\OneDrive\\Documentos\\PowerBI\\Curso Yutube\\RH data.xlsx")
 
 #Filter to active employee
 data= df[df['Estatus']=='Activo']
