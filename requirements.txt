@@ -1,4 +1,5 @@
-pandas==1.2.4
-numpy==1.20.1
-matplotlib==3.3.4
-seaborn==0.11.1
+pandas
+numpy
+convertdate
+matplotlib
+seaborn
