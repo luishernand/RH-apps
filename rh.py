@@ -14,7 +14,7 @@ st.title('Reporte de Empleados Activos RH 2022')
 
 # read data
 
-df = pd.read_excel("RH data.csv")
+df = pd.read_csv("RH data.csv")
 
 #Filter to active employee
 data= df[df['Estatus']=='Activo']
